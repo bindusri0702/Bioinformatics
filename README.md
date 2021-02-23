@@ -1,2 +1,3 @@
-# This file discusses Needleman_Wunsch method for global alignment
-bioinformatics 
+# Bioinformatics
+Needleman_Wunsch method for global alignment
+ 
