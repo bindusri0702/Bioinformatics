@@ -2,3 +2,5 @@
 Needleman_Wunsch method for global alignment
  
 Smith_Waterman method for local alignment
+
+Quasi Multiple Sequence alignment 
